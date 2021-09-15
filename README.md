@@ -1,0 +1,1 @@
+This project is for testing HTML basics learned from the odin project with their recipe project.
